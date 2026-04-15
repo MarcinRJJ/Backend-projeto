@@ -1,4 +1,4 @@
-module.exports = (req, res) => {
+Module.exports = (req, res) => {
     return res.status(200).json({
         message: "API Online"
     });
