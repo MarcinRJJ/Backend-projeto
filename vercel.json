@@ -1,5 +1,5 @@
 {
-    "$schema": "https://openai.vercer.sh/vercel.json",
+    "$schema": "https://openai.vercel.sh/vercel.json",
     "cleanUrls": true,
     "rewrites": [
         {
