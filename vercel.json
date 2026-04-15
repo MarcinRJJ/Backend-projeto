@@ -1,6 +1,6 @@
 {
     "$schema": "https://openai.vercer.sh/vercel.json",
-    "cleanUrl": true,
+    "cleanUrls": true,
     "rewrites": [
         {
             "source": "/",
